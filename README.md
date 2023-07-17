@@ -1,4 +1,4 @@
-![logo](https://github.com/Zainab329/Zainab_ch/blob/main/Blue%20Geometric%20Business%20Facebook%20Cover%20(1).png)
+![logo](https://github.com/Zainab329/Zainab1/blob/main/Blue%20Geometric%20Business%20Facebook%20Cover%20(1).png)
 # 💫 About Me:
 "As a computer science student, I'm constantly exploring the limitless possibilities of code to shape the future of technology."<br><br>🌱 learning python,django,flask for cloud<br><br>👯 I’m looking to collaborate on python chatbot projects<br><br>💬 Ask me about cloud aws services,docker,kubernettes,ansible,jenkins and other frameworks and tools<br><br>📫 How to reach me zainab.chaudhary098@gmail.com<br><br>⚡ Just like a curious explorer,I eagerly delve into new subjects and embrace the joy of discovering new ideas. My thirst for knowledge is insatiable, and my approach of learning with enthusiasm and a genuine desire to expand my horizons. Whether it's diving into the depths of scientific concepts,my passion for learning knows no bounds.
 
